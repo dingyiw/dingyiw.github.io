@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>simple</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-12-21T12:47:19.572Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello,World!</title>
+    <link href="http://yoursite.com/2017/12/20/Hello-World-0/"/>
+    <id>http://yoursite.com/2017/12/20/Hello-World-0/</id>
+    <published>2017-12-20T15:53:39.000Z</published>
+    <updated>2017-12-21T12:47:19.572Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用Hexo，测试文本。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用Hexo，测试文本。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="搭建博客" scheme="http://yoursite.com/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+</feed>
